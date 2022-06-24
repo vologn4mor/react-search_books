@@ -1,0 +1,16 @@
+export const LOAD_DATA = "LOAD_DATA";
+export const LOAD_MORE_DATA = "LOAD_MORE_DATA";
+export const CLEAR_DATA = "CLEAR_DATA";
+export const CHANGE_TOTAL_ITEMS = "CHANGE_TOTAL_ITEMS";
+export const CLEAR_TOTAL_ITEMS = "CLEAR_TOTAL_ITEMS";
+export const SET_START_INDEX = "SET_START_INDEX";
+export const CLEAR_START_INDEX = "CLEAR_START_INDEX";
+export const SET_URL = "SET_URL";
+export const SHOW_LOADER = "SHOW_LOADER";
+export const HIDE_LOADER = "HIDE_LOADER";
+export const SET_CATEGORIES = "SET_CATEGORIES";
+export const SET_SORTING = "SET_SORTING";
+export const SET_SEARCH = "SET_SEARCH";
+export const LOAD_BOOK = "LOAD_BOOK";
+export const SHOW_ERROR = "SHOW_ERROR";
+export const HIDE_ERROR = "HIDE_ERROR";
